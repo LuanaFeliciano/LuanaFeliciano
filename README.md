@@ -6,7 +6,7 @@
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanaFeliciano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-<img height= "290em" align="right" src="https://user-images.githubusercontent.com/98564118/154816293-3dc318d1-10e6-4123-a583-ec8fee89d993.svg"/>
+<img  align="right" src="https://user-images.githubusercontent.com/98564118/154816293-3dc318d1-10e6-4123-a583-ec8fee89d993.svg"/>
   
   ### Ferramentas e Tecnologias
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
