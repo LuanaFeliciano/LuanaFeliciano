@@ -2,8 +2,8 @@
 ### Bem vindo ao meu perfil GitHub
 <div>
 <a href="https://github.com/LuanaFeliciano">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaFeliciano&layout=compact&langs_count=7&theme=dracula"/> 
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanaFeliciano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaFeliciano&layout=compact&langs_count=7&theme=dracula"/> 
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanaFeliciano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
 <img height= "290em" align="right" src="https://user-images.githubusercontent.com/98564118/154816293-3dc318d1-10e6-4123-a583-ec8fee89d993.svg"/>
