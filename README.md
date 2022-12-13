@@ -7,10 +7,6 @@
   <img height= "290em" align="right" src="https://user-images.githubusercontent.com/98564118/154816293-3dc318d1-10e6-4123-a583-ec8fee89d993.svg"/>
 </div>
   
-  ### Ferramentas e Tecnologias
-  <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  
   ### Contatos:
 <div>
 <a href = "mailto:luanagomesfeliciano@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
